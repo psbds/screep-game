@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "module": "commonjs",
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "outDir": "../default",
+        "newLine": "LF",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "scripts/**/*.ts",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
